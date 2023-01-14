@@ -1,0 +1,6 @@
+Login admin: URL http://localhost/foodienator/admin/ 
+username login admin : admin
+password login admin : admin
+
+username login user : taylor
+password login user : password
